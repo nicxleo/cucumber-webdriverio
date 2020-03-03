@@ -11,6 +11,7 @@
   "dependencies": {
     "@wdio/cli": "^5.18.7",
     "chai": "^4.2.0",
+    "wdio": "^4.0.0",
     "webdriverio": "^5.18.7"
   },
   "devDependencies": {
